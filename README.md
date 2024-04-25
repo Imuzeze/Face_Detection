@@ -1,1 +1,1 @@
-This Face Detection App is designed to detect faces in images and videos using advanced computer vision algorithms. 
+This project is a face recognition system designed to detect and recognize faces in images or video streams. Leveraging computer vision algorithms and machine learning techniques, the system can identify individuals based on facial features
